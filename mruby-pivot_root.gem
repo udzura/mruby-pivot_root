@@ -1,0 +1,6 @@
+name: mruby-pivot_root
+description: PivotRoot class
+author: Uchio Kondo
+website: https://github.com/udzura/mruby-pivot_root
+protocol: git
+repository: https://github.com/udzura/mruby-pivot_root.git
